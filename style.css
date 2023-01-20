@@ -136,7 +136,7 @@ body{
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
-    color: white;
+    color: Black;
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
 }
@@ -174,7 +174,7 @@ section{
     padding: 120px 0;
     padding-bottom: 300px;
 }
-.about, .services, .skills, .contact, footer{
+.about, .Experience, .skills, .contact, footer{
     font-family: 'Poppins',sans-serif;
 }
 .about .about-content, .services .serv-content, .skills .skills-content, .contact, .contact-content{
