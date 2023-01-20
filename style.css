@@ -338,8 +338,8 @@ section .title::after{
    margin-bottom: 10px;
 }
 .skills .skills-content .left .paragraph-2{
-    font-size: 30px;
-    color: red;
+    font-size: 10px;
+    color: white;
 }
 .skills .skills-content .left .p{
     text-align: justify;
