@@ -566,23 +566,23 @@ footer .text-center {
     text-align: center !important; }
 
 footer span a{
-    color: #23b410;
+    color: Black;
     transition: color 0.3s ease;
 }
 footer i{
     padding-left: 10px;
     font-size: 25px;;
-    color: #23b410;
+    color: Black;
     transition: color 0.3s ease;
 }
 footer span a:hover{
-    color: white;
+    color: Black;
 }
 footer i{
     font-size: 27px;
 }
 footer i:hover{
-    color: white;
+    color: Black;
 }
 
 /* CSS for scroll to top button */
