@@ -136,7 +136,7 @@ body{
     background-size: cover;
     background-attachment: movable;
     height: 100vh;
-    color: Black;
+    color: white;
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
 }
