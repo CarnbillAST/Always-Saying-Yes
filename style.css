@@ -282,7 +282,7 @@ section .title::after{
 }
  .services .title::after{
      background: black;
-     content: "What I provide";
+     content: "What I did";
  }
  .services .serv-content .card{
      width: calc(33% - 20px);
