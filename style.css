@@ -134,7 +134,7 @@ body{
     display: flex;
     background: url("images/leaves_bushes_green_174515_3840x2400.jpg") no-repeat center;
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: movable;
     height: 100vh;
     color: Black;
     min-height: 500px;
@@ -187,7 +187,7 @@ section .title{
     position: relative;
     text-align: center;
     color: #23b410;
-    font-size: 40px;
+    font-size: 60px;
     font-weight: 500;
     margin-bottom: 80px;
     padding-bottom: 20px;
@@ -229,7 +229,7 @@ section .title::after{
     width: 370px;
     object-fit: cover;
     border-radius: 6px;
-    transition: all 0.3s ease;
+    transition: all 2s ease;
 }
 .about .about-content .left img:hover{
     transform: scale(1.05);
