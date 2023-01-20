@@ -225,10 +225,10 @@ section .title::after{
    width: 45%;
 }
 .about .about-content .left img{
-    height: 370px;
-    width: 370px;
+    height: 400px;
+    width: 400px;
     object-fit: cover;
-    border-radius: 6px;
+    border-radius: 8px;
     transition: all 2s ease;
 }
 .about .about-content .left img:hover{
