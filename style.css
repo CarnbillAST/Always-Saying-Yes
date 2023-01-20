@@ -462,7 +462,7 @@ section .title::after{
      width: calc(50% - 30px);
  }
  .contact .contact-content .text{
-     color: white;
+     color: blue;
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 10px;  
@@ -522,7 +522,7 @@ section .title::after{
     height: 100%;
     width: 100%;
     border:2px solid #23b410;
-    color: white;
+    color: pink;
     border-radius: 6px;
     outline: none;
     padding: 0 15px;
@@ -559,7 +559,7 @@ section .title::after{
 footer{
     background: url("images/dark-green-leaves-background-hydrangea-260nw-1699508995.jpg") ;
     padding: 20px 23px;
-    color: white;
+    color: Black;
 }
 
 footer .text-center {
